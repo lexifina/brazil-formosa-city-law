@@ -1,0 +1,4 @@
+# Lei n.º 987, de 1º de julho de 2024.
+Praça Rui Barbosa, 208 - Centro. CEP 73.801-220 - Formosa/GO Dispõe sobre prorrogação do prazo para início da construção do Instituto de Assistência dos Servidores Públicos do Estado de Goiás - IPASGO, conforme estabelecido na Lei n.º 139/2014, de 25 de março de 2.014 e dá outras providências.
+Projeto de Lei Ordinária n.º 15/24, de autoria do Poder Executivo, aprovado em 20 de junho de 2024.
+O PREFEITO MUNICIPAL DE FORMOSA, Estado de Goiás, no uso de suas atribuições legais, conferidas pela Constituição da República e Lei Municipal nº. 01/90, de 05 de abril de 1.990 - Lei Orgânica Municipal - LOM, e considerando a necessidade de prorrogação do prazo para início das obras do Instituto de Assistência dos Servidores Públicos do Estado de Goiás - IPASGO, faço saber que a Câmara Municipal de Formosa aprovou e eu sanciono a seguinte Lei:
