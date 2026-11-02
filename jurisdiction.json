@@ -1,0 +1,9 @@
+{
+  "path": "br-go-formosa",
+  "code": "BR-GO-FORMOSA",
+  "name": "Formosa (city)",
+  "level": "municipality",
+  "parent": "br-go",
+  "repo": "https://github.com/lexifina/brazil-formosa-city-law",
+  "build": "built: the law of Formosa from the Câmara Municipal's SAPL"
+}

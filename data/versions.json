@@ -1,0 +1,211 @@
+{
+ "country": "BR-GO-FORMOSA",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Formosa",
+   "title": "Lei Orgânica do Município de Formosa",
+   "url": "https://sapl.formosa.go.leg.br/norma/414",
+   "versions": [
+    {
+     "from": "1990-04-05",
+     "units": 232,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/0,1990-04-05,1990-10-30:TnFtv2xzNFwNc25Ilx9IET1_p4w/",
+     "sha256": "bd426d8709dba75d2c5ec89a2c43c638b8fb818660cc1b4596a397c5c86bd456"
+    },
+    {
+     "from": "1990-10-31",
+     "units": 232,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/28,1990-10-31,1993-03-13:KGF7b2NakurgzmBysZjktUA2VVE/",
+     "sha256": "4dc37984184e6ec9b0949619e51a59136b500ee68f0e91fb03514fd6bc9bbb69"
+    },
+    {
+     "from": "1993-03-14",
+     "units": 232,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/29,1993-03-14,1995-03-12:JbgPeIQMqaiBvNMIubyRMOxOOBI/",
+     "sha256": "13b6ade515fcbebb48da2dfbf545dd7ad206f17ac6aa722e4979c9d5c088d7e7"
+    },
+    {
+     "from": "1995-03-13",
+     "units": 232,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/30,1995-03-13,1996-01-10:jlYoNZm-gFXMY4NkiEktHS8N19c/",
+     "sha256": "0f278c5a7352dd17074358bfb56a26190b17e53fc6aaaa30334558e54bb24e75"
+    },
+    {
+     "from": "1996-01-11",
+     "units": 232,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/31,1996-01-11,1996-03-17:4VjNj3TVeKCWReP0VCKuqcrES0Y/",
+     "sha256": "dbaeb5540c6c0d59141e844a21a63ea49cd39504f82e233d23fb34c1afbfc5b1"
+    },
+    {
+     "from": "1996-03-18",
+     "units": 232,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/32,1996-03-18,1996-06-13:j-Ft0X8VcA9QtXq25WSV5pGG6xI/",
+     "sha256": "6a551e9d05f85ebfe5125ed550195d1e133b1060eb5765cd51a12c01f7e787fd"
+    },
+    {
+     "from": "1996-06-14",
+     "units": 232,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/33,1996-06-14,1997-06-04:m----nDUM79-U6PiVaU8P1dcdkM/",
+     "sha256": "ef1306be5e29783d9bc32a3993c06656f30a1d5c15edb79b6c6378d2fd732ddc"
+    },
+    {
+     "from": "1997-06-05",
+     "units": 232,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/34,1997-06-05,1997-12-04:myCJtMJ4SQQ6tmPMb_tVNdmUYmY/",
+     "sha256": "a2fdb190ad837c73e2ea4f87660d458704c70a6a863bd125fef682474ef8deec"
+    },
+    {
+     "from": "1997-12-05",
+     "units": 232,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/35,1997-12-05,1998-05-13:aZy82R__LKNSxQWEKNRaPKyoiwY/",
+     "sha256": "359790543f60022e044321474f49d3cc52f840b9724ec368822d1194d2746d9d"
+    },
+    {
+     "from": "1998-05-14",
+     "units": 232,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/36,1998-05-14,2000-03-16:PoiRyH2hDxN3B3HLRkIndoiNw8A/",
+     "sha256": "4c330a94fc8760a3e239dc001dabbf6168985f716d76ac0c4d1b34144bc05616"
+    },
+    {
+     "from": "1998-05-14",
+     "units": 232,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/37,1998-05-14,2000-03-16:OdmenWOl-v1m6FBjvgIgveS_zyA/",
+     "sha256": "2555d276bae0d04cd12b8bbcec5e8d1f85702b9eff73f16c6ffe0c041bebe6b0"
+    },
+    {
+     "from": "2000-03-17",
+     "units": 232,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/38,2000-03-17,2000-12-11:MRM5mh0mv-0Mmhwetbe_6WcFmqU/",
+     "sha256": "97f869fc949cd5d0b2c4f6c4a5e8c76679144af444feae0cd3db655924c42eb0"
+    },
+    {
+     "from": "2000-12-12",
+     "units": 232,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/39,2000-12-12,2001-12-09:XUrBRQwV9-hhjg4qtb-DZGZE0CA/",
+     "sha256": "5f1943e87ba5f41fa3b586667a0c2f81877efc0aae035b7f937ff383ba8edf56"
+    },
+    {
+     "from": "2001-12-10",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/40,2001-12-10,2004-04-13:_31EHYFmi3kibUT5t6xShkLpTUo/",
+     "sha256": "637f531a19d556f70e7ae7c1abe8d907efe1e2726f946abda6d3f05129404987"
+    },
+    {
+     "from": "2004-04-14",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/41,2004-04-14,2004-12-12:US3wodV_SNHoypG2VwPpYsv95Nc/",
+     "sha256": "539c94f8c669448044295de5410f64a95e2a757f0922833e132c61c4a9426f1a"
+    },
+    {
+     "from": "2004-12-13",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/42,2004-12-13,2005-11-30:IeGnKmxFT2_F5jwZP8rFF2pZkMU/",
+     "sha256": "6921642114953eb66df68c086fed627508d71953f0b5e06bf8bdd739e49e2d65"
+    },
+    {
+     "from": "2004-12-13",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/43,2004-12-13,2005-11-30:w7KTtt7Dtw2hOHDOrAAaqqs70wE/",
+     "sha256": "ab7648559a046dcffa5f55f15218b59be826a15b953c529a97349f8df91a33b8"
+    },
+    {
+     "from": "2005-12-01",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/44,2005-12-01,2008-12-17:a_Qzu6mqlJKIPPXfrRZ8IvehWA4/",
+     "sha256": "a431cc69d43e02148d8aab7d915ac3ae5c24e6b0a1cba8963bf5dac0d9e00499"
+    },
+    {
+     "from": "2008-12-18",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/45,2008-12-18,2009-10-12:6rRgzvK8E59Fkb62eA_FQNOdUxo/",
+     "sha256": "c2668cd4ddd78de68994f9957fadd39fd3320309c99c03719094b792e38aa30d"
+    },
+    {
+     "from": "2008-12-18",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/46,2008-12-18,2009-10-12:7YicV9ZFMHXm8p-uPCWBkrpVti4/",
+     "sha256": "fdb92f08f2d757e8dad64af117cce947d55087d35f771431f80cbd079f516099"
+    },
+    {
+     "from": "2009-10-13",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/47,2009-10-13,2010-09-13:BRZH6x0ft1cvkWdbU_v0PyhW5Jk/",
+     "sha256": "4744f84f4dd9a359c63908eb3789a06a0749cedab07f8c4970d02843cf070196"
+    },
+    {
+     "from": "2010-09-14",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/48,2010-09-14,2011-12-06:P_qqjqVhDK0p2CPLWeVK9a7JQ4E/",
+     "sha256": "7cfe9e71946342abd41259578b8594c29281f5ef380825c5e070a19d781bb5ae"
+    },
+    {
+     "from": "2011-12-07",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/49,2011-12-07,2012-05-07:Vsd2xc5PlZA_E_zNuoYbPAdnC5Y/",
+     "sha256": "ed793ef8770e7571046404bf694b02e9925529b1d6289fd54d022b72e901e210"
+    },
+    {
+     "from": "2012-05-08",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/50,2012-05-08,2012-08-06:iqzeVtVpzcGLpj6DwNaiW3zBEmc/",
+     "sha256": "331a40861e9e7a717d7dfe9e1b3a2a4969873b960fee97b5415a47a4849d4bc9"
+    },
+    {
+     "from": "2012-08-07",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/51,2012-08-07,2013-05-06:AVDaed5_G-8kw50aYXlViwUvpAY/",
+     "sha256": "8c3a27c6e917f84b42a203b3f73879ea92727884a3f0cc8b9373bca5737b23bc"
+    },
+    {
+     "from": "2013-05-07",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/52,2013-05-07,2013-10-15:UwReLpKzCIR3WIPczaPhs8Ti1g0/",
+     "sha256": "5d51de42992242e639b93135ffb2913f65026bd92f3d1e318e85761c64894430"
+    },
+    {
+     "from": "2013-10-16",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/53,2013-10-16,2018-06-25:tvI_t7Mh1ZQia1oxXzweNjQjuTc/",
+     "sha256": "964aa2906627915b87b0a28bfbde29c88ef73dd785e5559d45bb45c20579c79e"
+    },
+    {
+     "from": "2018-06-26",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/55,2018-06-26,2021-12-13:Etcw3tCXrHbiYYgvetzbUYS3tcQ/",
+     "sha256": "2bf7d9962301e23c2a387773fce4b9d242fa54f7b20a65cacf7303da1dcee74c"
+    },
+    {
+     "from": "2021-12-14",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/1430,2021-12-14,2022-12-12:u92-9wDVmHuiRsDIYKpqqyKAt_0/",
+     "sha256": "139775286fe315e3d1ae120ccf02ec1a9ee6b19076b7581832a270ca7215dd12"
+    },
+    {
+     "from": "2022-12-13",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/2002,2022-12-13,2023-09-20:y6UbPufVW_jZXzIMP-I5c9M9iig/",
+     "sha256": "ad40042d41acdf21a09d822356e835e4152d1f01e625b7bdc273cd5b239cbc31"
+    },
+    {
+     "from": "2023-09-21",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/2239,2023-09-21,2023-10-04:hnCC9pBdZc9IsL3EmoWRTnBvrsA/",
+     "sha256": "4b937e629d42bb957fd948b91d4a730b378fbebfed5e95f4d65ef4fd2c15a923"
+    },
+    {
+     "from": "2023-10-05",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/ta/3/text/vigencia/2253,2023-10-05,2024-04-03:I8haplx_Td6iRyh6A9C-ORKBIrU/",
+     "sha256": "fdd7c26e615f87ae58fc7c8ee06c530ae85c54df5e73de7a844aa787d802beda"
+    },
+    {
+     "from": "2024-04-04",
+     "units": 233,
+     "source_url": "https://sapl.formosa.go.leg.br/norma/414",
+     "sha256": "4544d8b34b7d6c5c443667037c4fe519f9ba6bf9db9b375b03aae66f4959aed5"
+    }
+   ]
+  }
+ ]
+}
