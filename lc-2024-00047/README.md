@@ -1,0 +1,9 @@
+# Lei Complementar nº 47, de 12 de abril de 2024
+
+LC 47/2024 · 1 versions, from 2024-04-12 (latest in force: 2024-04-12) · <https://sapl.formosa.go.leg.br/norma/5352>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2º | [art-0002.md](art-0002.md) | 0 |  |

@@ -206,6 +206,1000 @@
      "sha256": "4544d8b34b7d6c5c443667037c4fe519f9ba6bf9db9b375b03aae66f4959aed5"
     }
    ]
+  },
+  {
+   "slug": "lei-2026-01165",
+   "short": "Lei 1165/2026",
+   "title": "Lei nº 1.165, de 17 de abril de 2026",
+   "url": "https://sapl.formosa.go.leg.br/norma/6081",
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2026/6081/1165-2026.pdf",
+     "sha256": "83fde47d3787dadbf5d134bfe6e2cf302149e4447b1649e21b2bb4ad24a0ef74"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01163",
+   "short": "Lei 1163/2026",
+   "title": "Lei nº 1.163, de 7 de abril de 2026",
+   "url": "https://sapl.formosa.go.leg.br/norma/6078",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 4,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2026/6078/1163-2026.pdf",
+     "sha256": "809c62cf8bcf916750ed655bc15f46a79a338e30f832045bff64ad9f8941cad2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01162",
+   "short": "Lei 1162/2026",
+   "title": "Lei nº 1.162, de 7 de abril de 2026",
+   "url": "https://sapl.formosa.go.leg.br/norma/6077",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2026/6077/1162-2026.pdf",
+     "sha256": "3887b320c71690098137ce392f02eaa9d95856a207f246414fc39ed1e36c1663"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01161",
+   "short": "Lei 1161/2026",
+   "title": "Lei nº 1.161, de 7 de abril de 2026",
+   "url": "https://sapl.formosa.go.leg.br/norma/6076",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 4,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2026/6076/1161-2026.pdf",
+     "sha256": "0c73c3a355696f066e3f7e6bfaeed183f44d5c5c1efb6d4548e73a3ba97a75d0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01154",
+   "short": "Lei 1154/2026",
+   "title": "Lei nº 1.154, de 7 de abril de 2026",
+   "url": "https://sapl.formosa.go.leg.br/norma/6069",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2026/6069/1154-2026.pdf",
+     "sha256": "2ef9fc079227e56af966ebb394b891be4b838c68dc9aea95580f0c0c2681d939"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01153",
+   "short": "Lei 1153/2026",
+   "title": "Lei nº 1.153, de 7 de abril de 2026",
+   "url": "https://sapl.formosa.go.leg.br/norma/6068",
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "units": 4,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2026/6068/1153-2026.pdf",
+     "sha256": "071810b91c689920f45c23c85761d93bca2ae39ba9b32ce20826cbcc831f474a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01150",
+   "short": "Lei 1150/2026",
+   "title": "Lei nº 1.150, de 26 de fevereiro de 2026",
+   "url": "https://sapl.formosa.go.leg.br/norma/6061",
+   "versions": [
+    {
+     "from": "2026-02-26",
+     "units": 4,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2026/6061/1150-2026.pdf",
+     "sha256": "a39c057bb0a4383a1fcee15dd4c12d5d784b6b77e9cef913fa564f8162293b19"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01149",
+   "short": "Lei 1149/2026",
+   "title": "Lei nº 1.149, de 13 de janeiro de 2026",
+   "url": "https://sapl.formosa.go.leg.br/norma/6052",
+   "versions": [
+    {
+     "from": "2026-01-13",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2026/6052/1149-2026.pdf",
+     "sha256": "425d1f632c00fae8ce9424af6d587ecaddd0789d7dc6baf1e8f1c32aa4a3c89f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01146",
+   "short": "Lei 1146/2026",
+   "title": "Lei nº 1.146, de 8 de janeiro de 2026",
+   "url": "https://sapl.formosa.go.leg.br/norma/6049",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2026/6049/1146-2026.pdf",
+     "sha256": "3939ad3d4ccf371c319347a5c0ec9708971afdf844a4325dd57273d412caf799"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-01145",
+   "short": "Lei 1145/2026",
+   "title": "Lei nº 1.145, de 8 de janeiro de 2026",
+   "url": "https://sapl.formosa.go.leg.br/norma/6048",
+   "versions": [
+    {
+     "from": "2026-01-08",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2026/6048/1145-2026.pdf",
+     "sha256": "bccf23c7067e030e1d7939cd86c6a50450bbe6b2d5cbcf3e358140d1ec4f9861"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01139",
+   "short": "Lei 1139/2025",
+   "title": "Lei nº 1.139, de 26 de novembro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5990",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5990/1139-25.pdf",
+     "sha256": "589f26a70b85b798c3dcce24ced2986941b41572a93ff3855f2b32cbd3ebe85c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01138",
+   "short": "Lei 1138/2025",
+   "title": "Lei nº 1.138, de 26 de novembro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5989",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5989/1138-25.pdf",
+     "sha256": "70fed62263bb2a51866106bd02a62514d05c0107d1569bcc3e1d14a6e7feb47b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01137",
+   "short": "Lei 1137/2025",
+   "title": "Lei nº 1.137, de 26 de novembro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5988",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5988/1137-25.pdf",
+     "sha256": "1f7546b4a61d088973783a8ae31c262514c1489e79b5fb31789570097906eaca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01136",
+   "short": "Lei 1136/2025",
+   "title": "Lei nº 1.136, de 26 de novembro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5987",
+   "versions": [
+    {
+     "from": "2025-11-26",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5987/1136-25.pdf",
+     "sha256": "cca18d404759b4f1b08a6627c05aabae88d0957a365643a7cc16eb5264a76ec1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01120",
+   "short": "Lei 1120/2025",
+   "title": "Lei nº 1.120, de 7 de novembro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5962",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5962/1120-2025.pdf",
+     "sha256": "fb605fd16cbf29be2105e43bed1e740df4b922e6a4bbbc63c92bdfd2c799a654"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01119",
+   "short": "Lei 1119/2025",
+   "title": "Lei nº 1.119, de 7 de novembro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5961",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5961/1119-2025.pdf",
+     "sha256": "722bc41fc13cf4394976749f77d0c602f37445c4b6bab8c13750eb56f0fc61ad"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01118",
+   "short": "Lei 1118/2025",
+   "title": "Lei nº 1.118, de 7 de novembro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5960",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 4,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5960/1118-2025.pdf",
+     "sha256": "c01bdaef56c2fcdfb9326f55e4f64dd678bd3b606d2b211e4e416935b32ac6fd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01117",
+   "short": "Lei 1117/2025",
+   "title": "Lei nº 1.117, de 7 de novembro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5959",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5959/1117-2025.pdf",
+     "sha256": "4ca827ca513cc8a22d45fcac06ccdc3a72375d9513f7c47575f728e76c821634"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01113",
+   "short": "Lei 1113/2025",
+   "title": "Lei nº 1.113, de 9 de outubro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5789",
+   "versions": [
+    {
+     "from": "2025-10-09",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5789/1113-2025.pdf",
+     "sha256": "2872ed455f51422693665baa7eee0b7c2db595174e720ec8d9ae59e5ab1e8f21"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01104",
+   "short": "Lei 1104/2025",
+   "title": "Lei nº 1.104, de 6 de outubro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5780",
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5780/1104-2025.pdf",
+     "sha256": "75e8c3de6002dd0e07e62effe03cd7177e65b403fb9e18cd71b11276381bdc30"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01097",
+   "short": "Lei 1097/2025",
+   "title": "Lei nº 1.097, de 8 de setembro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5771",
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5771/1097-2025.pdf",
+     "sha256": "db20a7c833c7e15d91509c34fafd55ef02281ad27fa5f70d370b14aa0f2f2132"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01091",
+   "short": "Lei 1091/2025",
+   "title": "Lei nº 1.091, de 5 de setembro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5765",
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5765/1091-2025.pdf",
+     "sha256": "da26e2d0b314fa458be940e9136f7bb8e35c3fc5744a5f4f67d165aa515cea48"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01087",
+   "short": "Lei 1087/2025",
+   "title": "Lei nº 1.087, de 4 de setembro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5761",
+   "versions": [
+    {
+     "from": "2025-09-04",
+     "units": 4,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5761/1087-2025.pdf",
+     "sha256": "7610752d24be567c5bf322efb39042c32a8a219a021031e5f5fbef07d6c42ef2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01082",
+   "short": "Lei 1082/2025",
+   "title": "Lei nº 1.082, de 23 de junho de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5753",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 4,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5753/1082-2025.pdf",
+     "sha256": "6bb7bcfa5d0dec6734c5c113bc0175a85678cfaa9b3d6e19ff059c7da619bb4f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01080",
+   "short": "Lei 1080/2025",
+   "title": "Lei nº 1.080, de 23 de junho de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5751",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5751/1080-2025.pdf",
+     "sha256": "905690081db7cca1bfb6216b68efe015851b49a81bb4f82bb99a7003ba3bc1bf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01078",
+   "short": "Lei 1078/2025",
+   "title": "Lei nº 1.078, de 23 de junho de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5749",
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5749/1078-2025.pdf",
+     "sha256": "eb01316addbb8b3036c3e019ad10b088c61fe58ec344e862522b5a584698224a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01077",
+   "short": "Lei 1077/2025",
+   "title": "Lei nº 1.077, de 16 de junho de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5747",
+   "versions": [
+    {
+     "from": "2025-06-16",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5747/1077-2025.pdf",
+     "sha256": "bb29853d3ba8df20a3c1e36dc5d167bc9747fd768095331635e5e89ab20cd517"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01075",
+   "short": "Lei 1075/2025",
+   "title": "Lei nº 1.075, de 11 de junho de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5745",
+   "versions": [
+    {
+     "from": "2025-06-11",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5745/1075-2025.pdf",
+     "sha256": "50bca26a47e90abb17219003f2f20169c925a9df2f74e61ae83969f80c816054"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01074",
+   "short": "Lei 1074/2025",
+   "title": "Lei nº 1.074, de 10 de junho de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5744",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5744/1074-2025.pdf",
+     "sha256": "72c4e11296bbf5b4ab6f0bce6949b7abb692bf413084d5899da15789b5c8bbc0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01073",
+   "short": "Lei 1073/2025",
+   "title": "Lei nº 1.073, de 10 de junho de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5743",
+   "versions": [
+    {
+     "from": "2025-06-10",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5743/1073-2025.pdf",
+     "sha256": "55ffeba378d7b44b439c9dd16e67dcadcfa6c226b3c0d357c260920683ecee42"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01066",
+   "short": "Lei 1066/2025",
+   "title": "Lei nº 1.066, de 29 de maio de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5732",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 4,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5732/1066-2025.pdf",
+     "sha256": "32e9ee68294f9d39dc95c85f390cee2d20323c7ba1673371e404de1556f24412"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01063",
+   "short": "Lei 1063/2025",
+   "title": "Lei nº 1.063, de 29 de maio de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5729",
+   "versions": [
+    {
+     "from": "2025-05-29",
+     "units": 7,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5729/1063-2025.pdf",
+     "sha256": "5e9552246cf2d9b9275fa09f853a95c353da9204fcd9eded714ffc27daada0df"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01059",
+   "short": "Lei 1059/2025",
+   "title": "Lei nº 1.059, de 30 de abril de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5725",
+   "versions": [
+    {
+     "from": "2025-04-30",
+     "units": 4,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5725/1059-2025.pdf",
+     "sha256": "604cb0c8c0467450748a94874f10a0634b50e03e911a9e269b9054b8ce23ab3d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01053",
+   "short": "Lei 1053/2025",
+   "title": "Lei nº 1.053, de 11 de abril de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5719",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5719/1053-2025.pdf",
+     "sha256": "552af23f5c13203960ae8440679dcd5c7b12a866da2ad4ff819cd990e34a5336"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01052",
+   "short": "Lei 1052/2025",
+   "title": "Lei nº 1.052, de 11 de abril de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5718",
+   "versions": [
+    {
+     "from": "2025-04-11",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5718/1052-2025.pdf",
+     "sha256": "e085b0d59a1cb432fb7f0213c2138f3c244958f89a6596fc3353343cd00bb568"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01050",
+   "short": "Lei 1050/2025",
+   "title": "Lei nº 1.050, de 31 de março de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5709",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5709/1050-2025.pdf",
+     "sha256": "658ddfb1d6c8e3e4dcd77b7b22bf5ce8040cd523a18e9d8a889d3b0eff69eb58"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01048",
+   "short": "Lei 1048/2025",
+   "title": "Lei nº 1.048, de 31 de março de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5707",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 4,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5707/1048-2025.pdf",
+     "sha256": "eaadf0339c0f13d149e86875c8c47a362f92da57a5581d708d73e2c037806d8d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01032",
+   "short": "Lei 1032/2025",
+   "title": "Lei nº 1.032, de 3 de fevereiro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5688",
+   "versions": [
+    {
+     "from": "2025-02-03",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5688/1032-2025.pdf",
+     "sha256": "acece57f5eb442b580bae13fd35a66691590a15e1d4ac5d06087f28dbe13092f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-01027",
+   "short": "Lei 1027/2025",
+   "title": "Lei nº 1.027, de 17 de janeiro de 2025",
+   "url": "https://sapl.formosa.go.leg.br/norma/5670",
+   "versions": [
+    {
+     "from": "2025-01-17",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2025/5670/1027-2025.pdf",
+     "sha256": "dfc94538a06f30389ce49e0eeda36976575d4a882091c41b24f735139e2c2558"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-01022",
+   "short": "Lei 1022/2024",
+   "title": "Lei nº 1.022, de 31 de dezembro de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5665",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 4,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5665/1022-2024.pdf",
+     "sha256": "890248ff22c78b9b0bf5859ae46757ebe36f0c897f82d4476a8b39b5d60899f4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-01021",
+   "short": "Lei 1021/2024",
+   "title": "Lei nº 1.021, de 31 de dezembro de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5664",
+   "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5664/1021-2024.pdf",
+     "sha256": "3d843c118052f8a80392dcd032b6ba2891799ed485bed0465e7056667d400535"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-01019",
+   "short": "Lei 1019/2024",
+   "title": "Lei nº 1.019, de 16 de dezembro de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5662",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5662/1019-2024.pdf",
+     "sha256": "6969fb4770a71b4eaa2a9a4267a9a5971ee01096682df1b2b056d29bd2a88f6e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-01018",
+   "short": "Lei 1018/2024",
+   "title": "Lei nº 1.018, de 28 de novembro de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5612",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5612/1018-2024.pdf",
+     "sha256": "341eea874db454cfbf0a267046b45bc2a50fd85be5b353e9550aeb9a1f06661d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-01017",
+   "short": "Lei 1017/2024",
+   "title": "Lei nº 1.017, de 28 de novembro de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5611",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5611/1017-2024.pdf",
+     "sha256": "6f0b175be191b9e87aeb82e5e3c9a3a5b2f520b181949d6200098c97dc861af9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-01016",
+   "short": "Lei 1016/2024",
+   "title": "Lei nº 1.016, de 28 de novembro de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5610",
+   "versions": [
+    {
+     "from": "2024-11-28",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5610/1016-2024.pdf",
+     "sha256": "030c0e946c5e3b994688d1d89446029f317cc9a0717e447dffb2584a2dbc72b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-01013",
+   "short": "Lei 1013/2024",
+   "title": "Lei nº 1.013, de 30 de outubro de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5440",
+   "versions": [
+    {
+     "from": "2024-10-30",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5440/1013-2024.pdf",
+     "sha256": "db73270969badf55bb1e63e3253c095f030c68c4e0a6d3920616192231f1f7a4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-01011",
+   "short": "Lei 1011/2024",
+   "title": "Lei nº 1.011, de 29 de outubro de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5438",
+   "versions": [
+    {
+     "from": "2024-10-29",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5438/1011-2024.pdf",
+     "sha256": "0de9c6a690e979cba98e7302a9959985bc193cb00daa2d30dee44f37996cf377"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-01009",
+   "short": "Lei 1009/2024",
+   "title": "Lei nº 1.009, de 18 de setembro de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5434",
+   "versions": [
+    {
+     "from": "2024-09-18",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5434/1009-2024.pdf",
+     "sha256": "879ef741d917e6dd0e5cf60fe12dca342ed8a07fc84e5b247d074ce14c42b074"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-01004",
+   "short": "Lei 1004/2024",
+   "title": "Lei nº 1.004, de 19 de agosto de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5425",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5425/1004-2024.pdf",
+     "sha256": "1261fdc428639466782a361f93ee505aa5ca1cea1ef55d8bc10d894016493b9d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-01002",
+   "short": "Lei 1002/2024",
+   "title": "Lei nº 1.002, de 19 de agosto de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5423",
+   "versions": [
+    {
+     "from": "2024-08-19",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5423/1002-2024.pdf",
+     "sha256": "9a8f272fc05bca7aeb98b4656cce833a1dfc2a0075084991ba522b0518f7e252"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-01001",
+   "short": "Lei 1001/2024",
+   "title": "Lei nº 1.001, de 3 de julho de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5410",
+   "versions": [
+    {
+     "from": "2024-07-03",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5410/1001-2024.pdf",
+     "sha256": "0d18df3e4d0bdda9b32a233537e18bd63f325af4f3a10c2b3d32ba533f3e01e0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00991",
+   "short": "Lei 991/2024",
+   "title": "Lei nº 991, de 1 de julho de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5399",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5399/991-2024.pdf",
+     "sha256": "8b1907199cd9bb42d87ff6f6434d5fbfeb909d24a03d938bb4a126aba558ed32"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00990",
+   "short": "Lei 990/2024",
+   "title": "Lei nº 990, de 1 de julho de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5398",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5398/990-2024.pdf",
+     "sha256": "80e1fcf44457a9055dec1452bc69a3d161447ba49df47a8fa9fcb86c64458ef3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00989",
+   "short": "Lei 989/2024",
+   "title": "Lei nº 989, de 1 de julho de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5397",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5397/989-2024.pdf",
+     "sha256": "3b9f04187e9fe48cc0ab7e3b179071da47e36f1fdd02b3a3c308e09b530ab01c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00987",
+   "short": "Lei 987/2024",
+   "title": "Lei nº 987, de 1 de julho de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5395",
+   "versions": [
+    {
+     "from": "2024-07-01",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5395/987-2024.pdf",
+     "sha256": "ecaea680aa3c21ee12bf665d3140203a6c9a819d5ac6575965039b0cea8b92e1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00983",
+   "short": "Lei 983/2024",
+   "title": "Lei nº 983, de 24 de junho de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5391",
+   "versions": [
+    {
+     "from": "2024-06-24",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5391/983-2024.pdf",
+     "sha256": "a2495ae1965caf4a0de60f1044850cbdffa3208b6fb6ef435c57f1ff93186a89"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00981",
+   "short": "Lei 981/2024",
+   "title": "Lei nº 981, de 29 de maio de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5381",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5381/981-2024.pdf",
+     "sha256": "27fdb8107db819c7e29c858b0cbb434d060a5eb6ec6b0710c58796deb45c8c8a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00980",
+   "short": "Lei 980/2024",
+   "title": "Lei nº 980, de 29 de maio de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5380",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5380/980-2024.pdf",
+     "sha256": "f7ca72f7b950e42e27bebd1ff8d2a63b7b280d7503f64d4494135ca7a5ba14c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00978",
+   "short": "Lei 978/2024",
+   "title": "Lei nº 978, de 29 de maio de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5378",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5378/978-2024.pdf",
+     "sha256": "097aa605d954dc9d1bb5b272e6a910272c5e504448f995cff3002057d33f6357"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00977",
+   "short": "Lei 977/2024",
+   "title": "Lei nº 977, de 29 de maio de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5377",
+   "versions": [
+    {
+     "from": "2024-05-29",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5377/977-2024.pdf",
+     "sha256": "2346452dba2934d6b9d72b8a4d86b9cf66d999cad927cb10194b9a1bb66be07e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00970",
+   "short": "Lei 970/2024",
+   "title": "Lei nº 970, de 25 de abril de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5362",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5362/970-2024.pdf",
+     "sha256": "ad5bfd5af7ec20887d1351af2dc781d3052701b75ad17ca198964bf0898cbef5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00969",
+   "short": "Lei 969/2024",
+   "title": "Lei nº 969, de 25 de abril de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5361",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5361/969-2024.pdf",
+     "sha256": "80285cdf3047af71c89798392fd0ac77041756dc20e1770ad5e9579a8c1a81c9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00968",
+   "short": "Lei 968/2024",
+   "title": "Lei nº 968, de 25 de abril de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5360",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 4,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5360/968-2024.pdf",
+     "sha256": "7912ddb0be300b1ffe934888f36ff70ceb740210b340648a3002af57fc94c858"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00966",
+   "short": "Lei 966/2024",
+   "title": "Lei nº 966, de 25 de abril de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5358",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 6,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5358/966-2024.pdf",
+     "sha256": "4b8d04183860272d404c07e574d3eb4787c6e094dd8ce12ddd17a8b19dbdd803"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00962",
+   "short": "Lei 962/2024",
+   "title": "Lei nº 962, de 25 de abril de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5354",
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5354/962-2024.pdf",
+     "sha256": "9c883c48bf059a2ab618654de52da1f6f58077dba1defeeb892fefceb24c99ba"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-00047",
+   "short": "LC 47/2024",
+   "title": "Lei Complementar nº 47, de 12 de abril de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5352",
+   "versions": [
+    {
+     "from": "2024-04-12",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5352/lc_47-2024.pdf",
+     "sha256": "0f05bc5071e4e5828d9325fe1f36526152f53d38cf1d65c8293939ea728df7cb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00958",
+   "short": "Lei 958/2024",
+   "title": "Lei nº 958, de 15 de março de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5335",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5335/958-2024.pdf",
+     "sha256": "4209c1a1b8cf1fedb0ffb2f800655ecd6d028373c80333e56a6b6d9182339355"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00956",
+   "short": "Lei 956/2024",
+   "title": "Lei nº 956, de 15 de março de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5333",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 5,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5333/956-2024.pdf",
+     "sha256": "f7b498b57af981c806a41d9b0db8956ab3d9daa02f3db8b856e69cc1890b8822"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00954",
+   "short": "Lei 954/2024",
+   "title": "Lei nº 954, de 15 de março de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5331",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5331/954-2024.pdf",
+     "sha256": "f49dd67b2949dc1549aadd9dc35fae7d32748d6193b3023186f44e1e4308f35f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00953",
+   "short": "Lei 953/2024",
+   "title": "Lei nº 953, de 15 de março de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5330",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5330/953-2024.pdf",
+     "sha256": "06963c3e9e93a785bbb8957081ee9ea0fc4f7b488a300c49d054526fb187c4cf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-00952",
+   "short": "Lei 952/2024",
+   "title": "Lei nº 952, de 15 de março de 2024",
+   "url": "https://sapl.formosa.go.leg.br/norma/5329",
+   "versions": [
+    {
+     "from": "2024-03-15",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2024/5329/952-2024.pdf",
+     "sha256": "d2344efb07ed257af17e0ddd016a60d437b3ec6391230d7e6c8a369581947fc6"
+    }
+   ]
   }
  ]
 }
