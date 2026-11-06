@@ -107,6 +107,12 @@
     "lei-2023-00863"
    ],
    "sha256": "846b2b95f9e8437239a5eee3ab713d72d0acf469fefa1ac67a65070a6d7d99bd"
+  },
+  "30-leis-019.json": {
+   "acts": [
+    "lei-2019-00543"
+   ],
+   "sha256": "33c27fea59a2e2d61e3698ed1dccaf7cb55587088523eb120587086559db0892"
   }
  },
  "schema": 1

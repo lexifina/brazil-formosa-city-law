@@ -1214,6 +1214,20 @@
      "sha256": "e1259ad003281c63720d2e855abd42c73e23e686f8fdfdbd986f633c0d0ead4c"
     }
    ]
+  },
+  {
+   "slug": "lei-2019-00543",
+   "short": "Lei 543/2019",
+   "title": "Lei nº 543, de 9 de outubro de 2019",
+   "url": "https://sapl.formosa.go.leg.br/norma/3787",
+   "versions": [
+    {
+     "from": "2019-10-09",
+     "units": 3,
+     "source_url": "https://sapl.formosa.go.leg.br/media/sapl/public/normajuridica/2019/3787/543-19.pdf",
+     "sha256": "c9fe6fa94943c30495306bade4cca872709aa5065975ca23e6cec6bf1c9bedda"
+    }
+   ]
   }
  ]
 }
